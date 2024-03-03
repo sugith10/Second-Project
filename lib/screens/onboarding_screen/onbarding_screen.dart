@@ -7,11 +7,11 @@ class OnboardingPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return  Scaffold(
-      backgroundColor: Colors.white,
+      backgroundColor: Colors.white, 
       body: Center( 
         child: 
          Lottie.asset('asset/json/onboarding screen animation.json')
       ),
     );
-  }
+  }                   
 }
