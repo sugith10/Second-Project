@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "917621993016",
+    "project_id": "take-my-time-faa13",
+    "storage_bucket": "take-my-time-faa13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917621993016:android:fb5c29f4f273df948d80cd",
+        "android_client_info": {
+          "package_name": "com.example.second_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-xdZBOMSzGcloGFkzEnfo2nosIrSf8sU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
